@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[syb:home|Door43 (syb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-syb|d43-syb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-syb/archive/master.zip|d43-syb.zip]]
+
+**Recent Changes**
+{{changes>ns = syb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/syb|Ethnologue data]]
+
